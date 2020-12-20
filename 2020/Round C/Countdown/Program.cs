@@ -1,7 +1,7 @@
-using System;
+﻿using System;
 using System.Linq;
 
-namespace Allocation
+namespace Countdown
 {
     class Program
     {
@@ -10,21 +10,26 @@ namespace Allocation
             int cases = int.Parse(Console.ReadLine());
             for (int testCase = 1; testCase < cases + 1; testCase++)
             {
-                var nb = Console.ReadLine().Split().Select(x => int.Parse(x)).ToList();
+                var nk = Console.ReadLine().Split().Select(x => int.Parse(x)).ToList();
                 var a = Console.ReadLine().Split().Select(x => int.Parse(x)).ToList();
-                a.Sort();
                 int ans = 0;
-                int b2 = 0;
-                foreach (int price in a)
+                int n = nk[0];
+                int k = nk[1];
+                for (int i = 0; i <= n - k; i++)
                 {
-                    if (b2 + price > nb[1])
+                    bool flag = true;
+                    for (int j = i; j < i + k; j++)
                     {
-                        break;
+                        if (a[j] != k + i - j)
+                        {
+                            flag = false;
+                            break;
+                        }
+                        // Console.WriteLine($"{a[j]} {j}");
                     }
-                    else
+                    if (flag)
                     {
                         ans += 1;
-                        b2 += price;
                     }
                 }
                 Console.WriteLine($"Case #{testCase}: {ans}");

@@ -1,28 +1,29 @@
-# kickstart
-Kickstart archive
+# Kickstart
+
+Solution to Kickstart archive
 
 ## 2020
 
 ### Round A
 
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
-| :heavy_check_mark:  |   |   |   |
+| Allocation         | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
 
 ### Round B
 
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
-| :heavy_check_mark:  |   |   |   |
+| Bike Tour          | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
 
 ### Round C
 
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
-|   |   |   |   |
+| Countdown          | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
 
 ### Round D
 
-| 1 | 2 | 3 | 4 |
-|---|---|---|---|
-|   |   |   |   |
+| Record Breaker     | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
