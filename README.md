@@ -1,6 +1,6 @@
 # Kickstart
 
-Solution to Kickstart archive
+Solutions for Kickstart archive problems
 
 ## 2020
 
@@ -27,3 +27,27 @@ Solution to Kickstart archive
 | Record Breaker     | 2 | 3 | 4 |
 |--------------------|---|---|---|
 | :heavy_check_mark: |   |   |   |
+
+### Round E
+
+| Longest Arithmetic | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
+
+### Round F
+
+| ATM Queue          | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
+
+### Round G
+
+| Kick_Start | 2 | 3 | 4 |
+|------------|---|---|---|
+|            |   |   |   |
+
+### Round H
+
+| Retype | 2 | 3 | 4 |
+|--------|---|---|---|
+|        |   |   |   |
