@@ -42,9 +42,9 @@ Solutions for Kickstart archive problems
 
 ### Round G
 
-| Kick_Start | 2 | 3 | 4 |
-|------------|---|---|---|
-|            |   |   |   |
+| Kick_Start         | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
 
 ### Round H
 
