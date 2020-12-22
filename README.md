@@ -48,6 +48,6 @@ Solutions for Kickstart archive problems
 
 ### Round H
 
-| Retype | 2 | 3 | 4 |
-|--------|---|---|---|
-|        |   |   |   |
+| Retype             | 2 | 3 | 4 |
+|--------------------|---|---|---|
+| :heavy_check_mark: |   |   |   |
