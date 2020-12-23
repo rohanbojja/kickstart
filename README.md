@@ -6,15 +6,15 @@ Solutions for Kickstart archive problems
 
 ### Round A
 
-| Allocation         | 2 | 3 | 4 |
-|--------------------|---|---|---|
-| :heavy_check_mark: |   |   |   |
+| Allocation         | Plates             | 3 | 4 |
+|--------------------|--------------------|---|---|
+| :heavy_check_mark: | :heavy_check_mark: |   |   |
 
 ### Round B
 
-| Bike Tour          | 2 | 3 | 4 |
-|--------------------|---|---|---|
-| :heavy_check_mark: |   |   |   |
+| Bike Tour          | Bus Route          | 3 | 4 |
+|--------------------|--------------------|---|---|
+| :heavy_check_mark: | :heavy_check_mark: |   |   |
 
 ### Round C
 
